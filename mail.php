@@ -1,12 +1,9 @@
-<?php 
+<?php
 
 // ==================================================
 // Universal PHP Mail Feedback Script
 // More info: https://github.com/agragregra/uniMail
 // ==================================================
-
-
-$method = $_SERVER['REQUEST_METHOD'];
 
 //Script Foreach
 $c = true;
